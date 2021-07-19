@@ -1,0 +1,11 @@
+{
+  "my-profile": {
+    "menuText": "My Profile",
+    "pageTitle": "My Profile",
+    "fields": {
+      "firstName": "First Name",
+      "lastName": "Last Name"
+    }
+  },
+  "loading": "Loading..."
+}
